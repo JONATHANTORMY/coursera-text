@@ -1,2 +1,2 @@
-# coursera-text
+# coursera|-text
 coursera text repository
