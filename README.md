@@ -1,3 +1,3 @@
-# coursera|-text
-# coursera|-JAT bussiness
+# coursera| text
+# coursera| JAT bussiness
 coursera text repository
